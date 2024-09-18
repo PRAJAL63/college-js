@@ -1,3 +1,3 @@
-let hi=document.getElementById("hi");
-console.log(hi.database.test,"this is dataset");
-hi.style.backgroundColor="green";
+let hi = document.getElementById("hi1");
+        console.log(hi.dataset.test, "this is dataset");
+        hi.style.backgroundColor = "green";
